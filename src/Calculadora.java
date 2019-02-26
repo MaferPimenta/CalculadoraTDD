@@ -78,6 +78,7 @@ public class Calculadora {
 		} else if (expressao.contains("//")) {
 			String delimitador = "";
 			delimitador = expressao.substring(2,3);
+			
 			return delimitador;
 		}
 
