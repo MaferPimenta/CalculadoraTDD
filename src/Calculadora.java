@@ -79,6 +79,7 @@ public class Calculadora {
 			String delimitador = "";
 			delimitador = expressao.substring(2,3);
 			
+			
 			return delimitador;
 		}
 
